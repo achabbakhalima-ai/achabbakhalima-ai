@@ -1,7 +1,7 @@
 
 
 
--# Hi, I'm Khalima 👋
+-## Hi, I'm Halima 👋
 
 🎓 Software Engineering Student specializing in Application Development  
 💻 Passionate about programming and technology  
