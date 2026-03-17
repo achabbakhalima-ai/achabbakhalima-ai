@@ -32,17 +32,39 @@ I enjoy learning new technologies, building projects, and improving my programmi
 ---
 
 ## 📂 Projects
-Here are some of the projects I worked on:
 
-- **Smart City Simulator (C++)**  
-  A simulation project based on Object-Oriented Programming concepts using the Raylib graphics library to visualize the smart city environment.
-  
-  https://github.com/fatimazahraeelbouhssini4-arch/Traffic-Core.git
+Here are some of the projects I have contributed to during my studies and personal learning journey.
 
-- **Web Application Development Project**  
-  A backend web development project involving authentication, middleware, pagination, and secure request handling.
-  
-  https://github.com/dev-projectdatacenter/datacenter-project.git
+---
+
+### 🚦 Smart City Simulator (C++)
+
+A **Smart City traffic simulation system** developed using **C++ and Object-Oriented Programming (OOP)** principles.  
+The project uses the **Raylib graphics library** to visualize the smart city environment and simulate traffic behavior.
+
+**My Role**
+- Developed the **Vehicle classes** and core components of the simulation  
+- Implemented traffic logic and interactions between vehicles  
+- Collaborated with the team using **Git and GitHub**
+
+🔗 Repository:  
+https://github.com/fatimazahraeelbouhssini4-arch/Traffic-Core.git
+
+---
+
+### 🖥️ Data Center Management Project
+
+A **backend system for managing a Data Center**, including resource allocation, reservation handling, and user request processing.  
+The project focuses on building a secure and organized system to manage operations efficiently.
+
+**My Role**
+- Developed the **reservation system** for managing bookings  
+- Implemented the **notification system** for user alerts  
+- Tested and debugged backend functionalities to ensure system reliability  
+
+🔗 Repository:  
+https://github.com/dev-projectdatacenter/datacenter-project.git
+
 
 ---
 
